@@ -1,0 +1,3 @@
+@{
+    Name = @('winlogon','SearchIndexer','Notepad')
+}

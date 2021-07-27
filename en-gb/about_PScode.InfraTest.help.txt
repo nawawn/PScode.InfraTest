@@ -1,0 +1,17 @@
+TOPIC
+    about_PScode.InfraTest
+
+SHORT DESCRIPTION
+    Configuration file based Infrastructure Test PowerShell Module
+
+LONG DESCRIPTION
+    Configuration file based Infrastructure Test PowerShell Module. The module uses the configuration data file to test the status of the machine.
+
+EXAMPLES
+    Test-Computer -ComputerName MyPC
+
+KEYWORDS
+    Test-Computer, Test-Infrastructure, Infrastructure Test, Test Server,
+
+SEE ALSO
+    Text-only references for further reading. Hyperlinks cannot work in the PowerShell console.
